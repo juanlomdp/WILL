@@ -15,6 +15,7 @@ function buscarAmigo(amigos, nombre) {
 
   // Tu código aca:
   
+  
 }
 
 // No modifiques nada debajo de esta linea //
